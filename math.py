@@ -4,7 +4,7 @@ def add(x,y):
 
 #Substract Impelementation
 def subtract(x,y):
-    pass
+    return x-y
 
 #Multiply Impelementation
 def multiply(x,y):
