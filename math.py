@@ -11,7 +11,7 @@ def subtract(x,y):
 
 #Multiply Impelementation
 def multiply(x,y):
-    pass
+    return x*y
 
 #Divide Impelementation
 def divide(x,y):
