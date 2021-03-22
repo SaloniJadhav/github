@@ -4,7 +4,10 @@ def add(x,y):
 
 #Substract Impelementation
 def subtract(x,y):
-    pass
+    if y>x:
+	return Negative_value_error
+    else:
+	return x-y	
 
 #Multiply Impelementation
 def multiply(x,y):
