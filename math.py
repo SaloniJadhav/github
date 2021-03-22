@@ -1,6 +1,6 @@
 #Add Impelementation
 def add(x,y):
-    pass
+    return x+y
 
 #Substract Impelementation
 def subtract(x,y):
